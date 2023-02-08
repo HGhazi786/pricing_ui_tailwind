@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+body {
+    background-image: url('/bg.webp');
+    background-size: cover;
+    height: 100vh;
+}
