@@ -15,7 +15,7 @@ export default function Home() {
       <div className="space-y-4 flex">
         <div className="bg-white flex opacity-0 w-60 h-1">
         </div>
-        <div className="bg-slate-900 justify-center flex w-96 h-96">
+        <div className="bg-slate-900 justify-center flex w-96 h-96 shadow-lg">
         <div>
       <h2 className='pl-10 pt-5 font-light leading-tight text-2xl mt-0 mb-2 text-blue-600'>Basic Plan</h2>
         <h1 className='pt-2 font-bold leading-tight text-5xl mt-0 mb-2 text-white'>30 USD</h1>
@@ -31,9 +31,9 @@ export default function Home() {
       </button>
       </div> 
         </div>
-        <div className="bg-white flex w-72 opacity-0 h-1">
+        <div className="bg-white flex w-60 opacity-0 h-1">
         </div>
-        <div className="bg-slate-900 flex justify-center w-96 h-96">
+        <div className="bg-slate-900 flex justify-center w-96 h-96 shadow-lg">
         <div>
         <h2 className='pl-6 pt-6 font-light leading-tight text-2xl mt-0 mb-2 text-pink-600'>Premium Plan</h2>
         <h1 className='pt-2 font-bold leading-tight text-5xl mt-0 mb-2 text-white'>50 USD</h1><p className='text-gray-400'>/month</p>
