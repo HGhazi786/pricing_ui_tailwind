@@ -36,7 +36,7 @@ export default function Home() {
         <div className="bg-gradient-to-b from-slate-900 to-slate-800 flex justify-center w-96 h-96 shadow-lg shadow-slate-900/40">
         <div>
         <h2 className='pl-6 pt-6 font-light leading-tight text-2xl mt-0 mb-2 text-pink-600'>Premium Plan</h2>
-        <h1 className='pt-2 font-bold leading-tight text-5xl mt-0 mb-2 text-white'>50 USD<span className='text-gray-400 font-light inline-block text-xl'> /month</span></h1>
+        <h1 className='pt-2 font-bold leading-tight text-5xl mt-0 mb-2 text-white'>50 USD<span className='text-gray-400 font-light inline-block text-xl'> /Month</span></h1>
       <ul className="space-y-3 text-white list-disc marker:text-pink-600">
       <li>100 deploys per day</li>
       <li>5 TB of storage</li>
