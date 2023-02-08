@@ -9,10 +9,10 @@ export default function Home() {
     <main>
       <title>PRICING_UI</title>
       <center><h1 className="pt-12 font-bold leading-tight text-6xl mt-0 mb-2 text-slate-900">PRICING UI</h1>
-      <p className='px-96 text-1xl text-slate-900'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ducimus reiciendis, porro quae ut odit voluptas dolorum deserunt suscipit nam ipsa dolores. Quisquam non natus magnam illum beatae, velit corporis.</p>
+      <p className=' text-1xl text-slate-900'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ducimus reiciendis, porro quae ut odit voluptas dolorum deserunt suscipit nam ipsa dolores. Quisquam non natus magnam illum beatae, velit corporis.</p>
       </center>
       <br></br>
-      <div className="space-y-4 flex">
+      <div className="space-y-4 flex flex-wrap">
         <div className="bg-white flex opacity-0 w-60 h-1">
         </div>
         <div className="bg-slate-900 justify-center flex w-96 h-96 shadow-lg">
