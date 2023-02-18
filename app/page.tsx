@@ -9,7 +9,7 @@ export default function Home() {
     <main>
       <title>PRICING_UI</title>
       <center><h1 className="pt-12 font-bold leading-tight text-6xl mt-0 mb-2 text-slate-900">PRICING UI</h1>
-      <p className='text-1xl text-slate-900'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ducimus reiciendis, porro quae ut odit voluptas dolorum deserunt suscipit nam ipsa dolores. Quisquam non natus magnam illum beatae, velit corporis.</p>
+      <p className='text-1xl text-slate-900 mx-60'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ducimus reiciendis, porro quae ut odit voluptas dolorum deserunt suscipit nam ipsa dolores. Quisquam non natus magnam illum beatae, velit corporis.</p>
       </center>
       <br></br>
       <div className="space-y-4 flex flex-wrap">
